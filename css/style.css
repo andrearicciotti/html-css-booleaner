@@ -1,0 +1,12 @@
+/* HEADER */
+header{
+    background-color: #7fa6ff;
+    height: 60px;
+    background-image: url(../img/pattern.png);
+    background-size: 15%;
+}
+
+#header-logo{
+    width: 10%;
+    height: 60%;
+}
