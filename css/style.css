@@ -26,3 +26,31 @@ header{
 .todolist{
     padding-left: 1%;
 }
+
+/* TABLE */
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th{
+    text-align: left;
+    color: white;
+    background-color: #217ad3;
+}
+
+.bluerow{
+    background-color: rgb(84, 189, 224);
+}
+
+#column1{
+    width: 24%;
+}
+
+#column2{
+    width: 24%;
+}
+
+#column3{
+    width: 48%;
+}
