@@ -8,9 +8,21 @@ header{
 
 #header-logo{
     width: 10%;
-    height: 60%;
+    height: 100%;
 }
+/* /HEADER */
 
+/* TITLE */
 #booleaner{
     color: lightskyblue;
+}
+/* /TITLE */
+
+/* MAIN*/
+.highlighted-text{
+    background-color: yellow;
+}
+
+.todolist{
+    padding-left: 1%;
 }
