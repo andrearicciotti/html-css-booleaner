@@ -54,3 +54,29 @@ th{
 #column3{
     width: 48%;
 }
+/* /TABLE */
+/* /MAIN */
+
+/* FOOTER */
+h3{
+    color: grey;
+}
+
+.monitor-img{
+    background-image: url(../img/monitor.jpg);
+    background-position: center;
+    width: 250px;
+    height: 180px;
+    color: white;
+    display: block;
+}
+
+.graphics-img{
+    background-image: url(../img/graph.jpg);
+    background-position: center;
+    width: 250px;
+    height: 180px;
+    color: white;
+    display: block;
+}
+/* FOOTER */
